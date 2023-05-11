@@ -1,0 +1,15 @@
+#divtest{
+width: 16%;
+text-align: center;
+margin: auto;
+background-color: black;
+padding:10px;
+}
+input{
+    margin: 10px;
+    height: 30px;
+}
+label{
+    color: white;
+    margin: 10px;
+}
